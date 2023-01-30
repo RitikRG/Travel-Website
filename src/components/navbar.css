@@ -1,0 +1,9 @@
+.mobiNav{
+    height: 0px;
+    transition: height 0.8s ease-in-out;
+}
+
+.mobiNav-active{
+    transition: height 0.8s ease-in-out;
+    height: 210px;
+}

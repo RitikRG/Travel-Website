@@ -1,0 +1,7 @@
+#headerBg{
+    background: url(../assets/homeheaderbg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
