@@ -1,0 +1,22 @@
+
+
+#taalV1{
+    background: url(../assets/taalVolcano1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#taalV2{
+    background: url(../assets/taalVolcano2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mtfV1{
+    background: url(../assets/mtf1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mtfV2{
+    background: url(../assets/mtf2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

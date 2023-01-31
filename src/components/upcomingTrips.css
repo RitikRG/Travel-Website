@@ -1,0 +1,18 @@
+#russiaBg{
+    background: url(../assets/russia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#norwayBg{
+    background: url(../assets/norway.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#indiaBg{
+    background: url(../assets/india.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

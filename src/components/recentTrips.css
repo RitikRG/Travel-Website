@@ -1,0 +1,18 @@
+#italyBg{
+    background: url(../assets/italy.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#newZealandBg{
+    background: url(../assets/newZealand.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#greeceBg{
+    background: url(../assets/greece.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
